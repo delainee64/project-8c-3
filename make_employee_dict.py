@@ -1,3 +1,9 @@
+# Author: Delainee Lenss
+# GitHub username: delainee64
+# Date: 11/12/2022
+# Description: Write a class named Employee that has private
+# data members for an employee's name, ID_number, salary, and email_address.
+
 class Employee:
     """Represents employee information"""
 
