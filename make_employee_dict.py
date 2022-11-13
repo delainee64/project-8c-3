@@ -42,11 +42,11 @@ def make_employee_dict(emp_names, emp_ids, emp_sals, emp_emails):
     return employee_dict
 
 
-emp_names = ["Jean", "Kat", "Pomona"]
-emp_ids = ["100", "101", "102"]
-emp_sals = [30, 35, 28]
-emp_emails = ["Jean@aol.com", "Kat@aol.com", "Pomona@aol.com"]
-result_dictionary = make_employee_dict(emp_names, emp_ids, emp_sals, emp_emails)
+# emp_names = ["Jean", "Kat", "Pomona"]
+# emp_ids = ["100", "101", "102"]
+# emp_sals = [30, 35, 28]
+# emp_emails = ["Jean@aol.com", "Kat@aol.com", "Pomona@aol.com"]
+# result_dictionary = make_employee_dict(emp_names, emp_ids, emp_sals, emp_emails)
 
 # for key, value in result_dictionary.items():
 # print(key, value.get_name(), value.get_salary(), value.get_email_address())
